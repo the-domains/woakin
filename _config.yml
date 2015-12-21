@@ -1,0 +1,28 @@
+name: Woakin
+favicon: null
+layout_spectrum: 0.4257942447438836
+typography_spectrum: 0.47494096867740154
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5111353963147849
+  lightness: 0.8950177000369877
+  saturation: 0.5555842649191618
+  rhythmicContrast: 0.22602671664208174
+purpose: []
