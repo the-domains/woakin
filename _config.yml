@@ -1,7 +1,7 @@
 name: Woakin
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.06848
+layout_spectrum: 0.91767
+typography_spectrum: 0.45956
 title: Cambiando de tema
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#e6b787'
     - '#627587'
     - '#564532'
-  brandStrength: 0.6875
-  lightness: 0.875
-  saturation: 0.6875
-  rhythmicContrast: 0.25
+  brandStrength: 0.8125
+  lightness: 0.5625
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
