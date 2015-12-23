@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-23T23:29:57.258Z'
-dateModified: '2015-12-23T23:29:39.569Z'
+datePublished: '2015-12-23T23:32:33.151Z'
+dateModified: '2015-12-23T23:32:20.139Z'
 title: Esta navidad regala tiempo
 author: []
 sourcePath: _posts/2015-12-23-esta-navidad-regala-tiempo.md
@@ -22,10 +22,9 @@ url: esta-navidad-regala-tiempo/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5114661c-3921-4ce8-b7ef-a9366cda9894.jpg)
-
 Es navidad y todos buscamos regalos para demostrar nuestro cariño a ciertas personas.
 
 Creo que el mejor regalo que puedes dar es tiempo. El tiempo es único, nunca vas a volver a vivir ese instante con esa persona. Nunca vas a recuperar ese momento que dedicaste a una persona. No tenemos nada tan valioso como nuestro tiempo.
 
 Esta navidad, y todos los días, regala tu tiempo a la gente que lo merece.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d118e53-4be9-4e3a-836c-b87a685e004d.jpg)
