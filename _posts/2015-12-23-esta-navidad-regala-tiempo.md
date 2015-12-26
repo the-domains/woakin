@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-26T20:30:03.560Z'
-dateModified: '2015-12-26T20:30:00.457Z'
+datePublished: '2015-12-26T20:31:00.395Z'
+dateModified: '2015-12-26T20:30:54.221Z'
 title: Regala tu tiempo
 author: []
 sourcePath: _posts/2015-12-23-esta-navidad-regala-tiempo.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: regala-tu-tiempo/index.html
+_type: Article
 
 ---
 # Regala tu tiempo
