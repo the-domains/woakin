@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-26T20:18:41.639Z'
-dateModified: '2015-12-26T20:18:33.122Z'
+datePublished: '2015-12-26T20:27:16.297Z'
+dateModified: '2015-12-26T20:27:10.576Z'
 title: Mi ambición
 author: []
 sourcePath: _posts/2015-12-23-mi-ambicion.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: mi-ambicion/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d96dfdac-8be2-4493-954a-9ad1ca3b7971.jpg)
