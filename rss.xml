@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Cambiando de tema]]></title>
+        <description><![CDATA[Cambiando de tema]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 26 Dec 2015 20:31:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Regala tu tiempo]]></title>
+            <description><![CDATA[<article><h1>Regala tu tiempo</h1><p>Es navidad y todos buscamos regalos para demostrar nuestro cariño a ciertas personas. Creo que el mejor regalo que puedes dar es tiempo. El tiempo es único, nunca vas a volver a vivir ese instante con esa persona. Nunca vas a recuperar ese momento que dedicaste a una persona. No tenemos nada tan valioso como nuestro tiempo. Esta navidad, y todos los días, regala tu tiempo a la gente que lo merece.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20017189ae7f9dde09f4db9cc24f8a62d27b27ce.jpg"></article>]]></description>
+            <link>undefinedregala-tu-tiempo/index.html</link>
+            <guid isPermaLink="false">ce6c64b2-fd51-444d-ab41-d19bc479f135</guid>
+            <pubDate>Sat, 26 Dec 2015 20:31:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
