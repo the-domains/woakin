@@ -1,6 +1,6 @@
 name: Woakin
 favicon: null
-layout_spectrum: 0.60614
+layout_spectrum: 1
 typography_spectrum: 0.5895
 title: Pensamientos y creencias
 cta:
@@ -22,8 +22,8 @@ color:
     - '#e6b787'
     - '#627587'
     - '#564532'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
+  brandStrength: 0.5625
+  lightness: 0.375
+  saturation: 0.5625
   rhythmicContrast: 0.5
 purpose: []
