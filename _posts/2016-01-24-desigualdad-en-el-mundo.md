@@ -3,21 +3,20 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-24T23:19:25.819Z'
-dateModified: '2016-01-24T23:19:07.222Z'
+description: 'Según los cálculos de Oxfam 62 multimillonarios tienen la misma cantidad de dinero que el 50% de la humanidad. '
+datePublished: '2016-05-17T22:32:25.996Z'
+dateModified: '2016-05-17T22:15:23.214Z'
 title: Desigualdad en el mundo
 author: []
+sourcePath: _posts/2016-01-24-desigualdad-en-el-mundo.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-24-desigualdad-en-el-mundo.md
-published: true
+starred: false
 url: desigualdad-en-el-mundo/index.html
 _type: Article
 
