@@ -1,31 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Pensamientos y creencias]]></title>
-        <description><![CDATA[Pensamientos y creencias]]></description>
+        <title><![CDATA[Woakin]]></title>
+        <description><![CDATA[Woakin]]></description>
         <link>http://credo.woakin.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 23:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 22:32:44 GMT</lastBuildDate>
         <atom:link href="http://credo.woakin.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Desigualdad en el mundo]]></title>
-            <description><![CDATA[<article><h1>Desigualdad en el mundo</h1><p>Según los cálculos de Oxfam 62 multimillonarios tienen la misma cantidad de dinero que el 50% de la humanidad. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf91986a-92eb-47ea-82b5-239e2710d3d2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Desigualdad en el mundo</h1><p>Según los cálculos de Oxfam 62 multimillonarios tienen la misma cantidad de dinero que el 50% de la humanidad. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a563948bd3f146fbe71160ccabceb5164a074eca.jpg"></article>]]></description>
             <link>http://credo.woakin.com/desigualdad-en-el-mundo/index.html</link>
             <guid isPermaLink="false">c9bb1bf1-5a45-430c-a54b-b215e5d8144c</guid>
-            <pubDate>Sun, 24 Jan 2016 23:19:25 GMT</pubDate>
+            <pubDate>Tue, 17 May 2016 22:32:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[¿Qué estás haciendo?]]></title>
-            <description><![CDATA[<article><h1>¿Qué estás haciendo?</h1><p>Aaron Swartz decía que si no estabas haciendo la cosa mas importante del mundo reconsideraras lo que estabas haciendo. ¿Qué estas haciendo hoy?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4471f367787c3c15f08a5806d51c1cfcaf47ed4.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6051a74e-5e68-4281-b2f5-1ee6416c9da0.jpg">]]></description>
             <link>http://credo.woakin.com/que-estas-haciendo/index.html</link>
             <guid isPermaLink="false">ca57237d-cb1f-44f7-ae76-606d23effd0a</guid>
             <pubDate>Sun, 27 Dec 2015 07:42:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ambición]]></title>
-            <description><![CDATA[<article><h1>Ambición</h1><p>Ambición es una palabra a la que mucha gente le da connotaciones negativas. Para mi ambición es ser cada día mejor en lo que hago, hacer las cosas de la manera mas eficiente posible. Es estar seguro que lo que hago sea un reflejo de lo que pienso y de lo que quiero.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6dd3bc976d20a2af9fd7cd0644dacda4a4da4c4d.jpg"></article>]]></description>
-            <link>http://credo.woakin.com/ambicion/index.html</link>
-            <guid isPermaLink="false">e176ec7c-4c25-4cac-a461-dc415c0f6688</guid>
-            <pubDate>Sat, 26 Dec 2015 20:31:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Regala tu tiempo]]></title>
@@ -33,6 +26,13 @@
             <link>http://credo.woakin.com/regala-tu-tiempo/index.html</link>
             <guid isPermaLink="false">ce6c64b2-fd51-444d-ab41-d19bc479f135</guid>
             <pubDate>Sat, 26 Dec 2015 20:32:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ambición]]></title>
+            <description><![CDATA[<article><h1>Ambición</h1><p>Ambición es una palabra a la que mucha gente le da connotaciones negativas. Para mi ambición es ser cada día mejor en lo que hago, hacer las cosas de la manera mas eficiente posible. Es estar seguro que lo que hago sea un reflejo de lo que pienso y de lo que quiero.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6dd3bc976d20a2af9fd7cd0644dacda4a4da4c4d.jpg"></article>]]></description>
+            <link>http://credo.woakin.com/ambicion/index.html</link>
+            <guid isPermaLink="false">e176ec7c-4c25-4cac-a461-dc415c0f6688</guid>
+            <pubDate>Sat, 26 Dec 2015 20:31:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
