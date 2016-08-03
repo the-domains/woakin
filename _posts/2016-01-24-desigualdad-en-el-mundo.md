@@ -1,31 +1,33 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: 'Según los cálculos de Oxfam 62 multimillonarios tienen la misma cantidad de dinero que el 50% de la humanidad. '
-datePublished: '2016-05-17T22:32:25.996Z'
-dateModified: '2016-05-17T22:15:23.214Z'
-title: Desigualdad en el mundo
-author: []
+datePublished: '2016-08-03T17:02:28.476Z'
 sourcePath: _posts/2016-01-24-desigualdad-en-el-mundo.md
+inFeed: true
 authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-03T17:02:27.657Z'
+title: Desigualdad en el mundo
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+description: >-
+  Según los cálculos de Oxfam 62 multimillonarios tienen la misma cantidad de
+  dinero que el 50% de la humanidad.
+inLanguage: null
+inNav: false
+via: {}
 starred: false
 url: desigualdad-en-el-mundo/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf91986a-92eb-47ea-82b5-239e2710d3d2.jpg)
-
 # Desigualdad en el mundo
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a563948bd3f146fbe71160ccabceb5164a074eca.jpg)
 
-Según los cálculos de [Oxfam][0] 62 multimillonarios tienen la misma cantidad de dinero que el 50% de la humanidad. 
+Según los cálculos de [Oxfam][0] 62 multimillonarios tienen la misma cantidad de dinero que el 50% de la humanidad.
 
 Sin duda eso está mal pero ¿qué podemos hacer para cerrar esa brecha? No podemos esperar que los gobiernos y economistas lo resuelvan, es algo que debemos hacer todos nosotros, en nuestro día a día.
 
