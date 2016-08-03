@@ -1,19 +1,4 @@
-name: Woakin
-favicon: null
-layout_spectrum: 0.74714
 typography_spectrum: 0.5895
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-71571272-2
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#0e0e0e'
@@ -25,4 +10,20 @@ color:
   lightness: 0.5625
   saturation: 0.5
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.74714
+analytics:
+  google: UA-71571272-2
+  facebook: null
+  twitter: null
+name: Woakin
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Joaquin Gonzalez
 purpose: []
