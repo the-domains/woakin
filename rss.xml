@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Woakin]]></title>
-        <description><![CDATA[Woakin]]></description>
+        <title><![CDATA[Joaquin Gonzalez]]></title>
+        <description><![CDATA[Joaquin Gonzalez]]></description>
         <link>http://credo.woakin.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 21:49:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 17:00:18 GMT</lastBuildDate>
         <atom:link href="http://credo.woakin.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[¿Qué estás haciendo?]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8194a1fb-ec81-437f-bf85-563bd03ed827.jpg" alt="Aron Swartz">]]></description>
+            <link>http://credo.woakin.com/que-estas-haciendo/index.html</link>
+            <guid isPermaLink="false">ca57237d-cb1f-44f7-ae76-606d23effd0a</guid>
+            <pubDate>Wed, 03 Aug 2016 17:00:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2da01d4-443d-4808-af17-e47df47ed8a5.jpg">]]></description>
@@ -33,13 +40,6 @@
             <link>http://credo.woakin.com/desigualdad-en-el-mundo/index.html</link>
             <guid isPermaLink="false">c9bb1bf1-5a45-430c-a54b-b215e5d8144c</guid>
             <pubDate>Tue, 17 May 2016 22:32:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[¿Qué estás haciendo?]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6051a74e-5e68-4281-b2f5-1ee6416c9da0.jpg">]]></description>
-            <link>http://credo.woakin.com/que-estas-haciendo/index.html</link>
-            <guid isPermaLink="false">ca57237d-cb1f-44f7-ae76-606d23effd0a</guid>
-            <pubDate>Sun, 27 Dec 2015 07:42:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Regala tu tiempo]]></title>
